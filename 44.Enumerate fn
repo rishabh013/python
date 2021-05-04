@@ -1,0 +1,11 @@
+## Enumerate fynction##
+
+l1 = ["bhindi", "Aloo", "chopstick", "chowmein"]
+for index, item in enumerate(l1):
+    print(f"jarvis please buy {item}
+    
+Run:
+jarvis please buy bhindi
+jarvis please buy Aloo
+jarvis please buy chopstick
+jarvis please buy chowmein
