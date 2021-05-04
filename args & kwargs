@@ -1,0 +1,10 @@
+def funargs(*args):
+    
+    for item in args:
+        print(item)
+    
+har = ["harry", "Rohan", "skillf", "Hammad"]
+funargs(*har)
+
+
+
